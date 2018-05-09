@@ -21,5 +21,5 @@ var hammingDistance = function(x,y){
             diff++;
         }
     }
-    return diff;hwideiohfeiofhwiofhwfhi
+    return diff;
 };
